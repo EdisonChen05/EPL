@@ -1,0 +1,3 @@
+@echo off
+echo Starting EPL Prediction System Streamlit App...
+streamlit run app.py
